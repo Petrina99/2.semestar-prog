@@ -1,0 +1,5 @@
+﻿  functions.c
+D:\Faks\2.semestar\2.semestar-prog\LV7\2zad\2zad\functions.c(49,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.c
+  Generating Code...
+  2zad.vcxproj -> D:\Faks\2.semestar\2.semestar-prog\LV7\2zad\x64\Debug\2zad.exe

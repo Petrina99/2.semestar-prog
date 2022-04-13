@@ -1,0 +1,7 @@
+Student broj: 1.	Ime: ide	Prezime: gas
+Student broj: 2.	Ime: d	Prezime: s
+Student broj: 3.	Ime: d	Prezime: w
+Student broj: 4.	Ime: t	Prezime: w
+Student broj: 5.	Ime: q	Prezime: e
+Student broj: 6.	Ime: rt	Prezime: w
+Student broj: 7.	Ime: e	Prezime: r
