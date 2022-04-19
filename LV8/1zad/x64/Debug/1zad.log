@@ -1,0 +1,4 @@
+﻿  functions.c
+D:\Faks\2.semestar\2.semestar-prog\LV8\1zad\functions.c(128,3): warning C4033: 'pretraziClanove' must return a value
+D:\Faks\2.semestar\2.semestar-prog\LV8\1zad\functions.c(150): warning C4715: 'pretraziClanove': not all control paths return a value
+  1zad.vcxproj -> D:\Faks\2.semestar\2.semestar-prog\LV8\1zad\x64\Debug\1zad.exe
