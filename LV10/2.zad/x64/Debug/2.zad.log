@@ -1,4 +1,7 @@
 ﻿  functions.c
 D:\Faks\2.semestar\2.semestar-prog\LV10\2.zad\functions.c(23,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
 D:\Faks\2.semestar\2.semestar-prog\LV10\2.zad\functions.c(45,11): warning C4098: 'ispis': 'void' function returning a value
+  main.c
+D:\Faks\2.semestar\2.semestar-prog\LV10\2.zad\main.c(11,17): warning C4101: 'max': unreferenced local variable
+  Generating Code...
   2.zad.vcxproj -> D:\Faks\2.semestar\2.semestar-prog\LV10\2.zad\x64\Debug\2.zad.exe
